@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+core
+*.pkl
+
+*.swo
+*.swp
+
+sample_data/*
+idx2word*.py
