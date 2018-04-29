@@ -1,4 +1,4 @@
-#Naver AI Hackathon 2018 - Movie Prediction
+# Naver AI Hackathon 2018 - Movie Prediction
 
 I participated in [Naver AI Hackathon 2018](https://github.com/naver/ai-hackathon-2018) and **ranked 5th(over 200 teams, MSE: 2.76661)** as an inidivisual participant(Team: tantara).
 
