@@ -22,6 +22,12 @@ I participated in [Naver AI Hackathon 2018](https://github.com/naver/ai-hackatho
 
 ## How to Use
 
+#### Download pre-trained vocabulary
+
+```bash
+$ wget https://dl.dropbox.com/s/l2cct7xxi94og2p/idx2word_final.pkl -O movie-prediction/idx2word_final.pkl
+```
+
 #### on Docker
 
 Install `docker` first, and run commands as follows:
